@@ -54,9 +54,30 @@ which are just a small sample of what you could do with this mod.
 
 _[🎵](https://youtu.be/yr8rlcXjm3E?t=1)_
 
+## Usage Instructions
+
+Once you have installed the mod with Satisfactory Mod Manager,
+the next time you open your inventory, a flashing yellow tutorial icon will appear that tells you how to configure the mod.
+
+![TutorialIcon](https://i.imgur.com/cuNrYIZ.png)
+
+All of this mod's features can be configured
+from the in-game SML Mod Configs screen,
+which can be accessed from the main menu or pause menu.
+All of these settings can be changed while the game is running.
+
+Once on the config screen,
+you can hover over a slider to get a description of what it does.
+
+Select a preset from the "Select from Preset" dropdown,
+or use the sliders to arrange your inventory as you see fit.
+
+You can press 'Refresh Preview' on the config screen to get a preview of what your inventory will look like.
+
 ## Compatibility Notes
 
-* This mod modifies the render transforms of the inventory window, so anything that adds new UI to the inventory could end up completley distorted by this.
+* This mod modifies the render transforms of the inventory window,
+  so anything that adds new UI to the inventory could end up completely distorted by this.
 
 ## Known Bugs
 
