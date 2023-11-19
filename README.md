@@ -82,5 +82,4 @@ You can press 'Refresh Preview' on the config screen to get a preview of what yo
 ## Known Bugs
 
 * The regions you must drag items to in order to drop them into the world the same as vanilla's - you can't drop items in the "center" of your screen if you move the widgets out of the way. I don't plan to change this.
-* The "moving items" animation will still use the "real" position of the item before your customizations. I don't plan to fix this.
 * Opening the configs screen moves your cursor. This is caused by the base game when the inventory widget is spawned.
